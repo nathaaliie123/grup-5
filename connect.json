@@ -1,0 +1,11 @@
+{
+    "Bandung": ["Bekasi", "Bogor", "Cimahi", "Tasikmalaya"],
+    "Bekasi": ["Bandung", "Jakarta"],
+    "Bogor": ["Bandung", "Depok"],
+    "Cimahi": ["Bandung", "Purwakarta"],
+    "Tasikmalaya": ["Bandung", "Ciamis"],
+    "Jakarta": ["Bekasi"],
+    "Depok": ["Bogor", "Jakarta"],
+    "Purwakarta": ["Cimahi"],
+    "Ciamis": ["Tasikmalaya"]
+}
